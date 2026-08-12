@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/softwareMLand/splitvideo/main/icon.png" alt="Icono de SplitVideo" width="100" height="100">
   <h1>✂️ SplitVideo</h1>
   <p><em>La herramienta definitiva para dividir tus videos largos en segmentos perfectos de forma automática y totalmente local.</em></p>
 

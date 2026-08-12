@@ -18,6 +18,14 @@
 2. Descarga el archivo ejecutable **`DivisorVideo.exe`** correspondiente a la última versión.
 3. Haz doble clic en el archivo descargado para iniciar la aplicación.
 
+<div align="center">
+
+  <a href="https://github.com/softwareMLand/splitvideo/releases/download/v1.0.0/DivisorVideo.exe">
+    <img src="https://img.shields.io/badge/📥_Descargar_SplitVideo-v1.0.0-blue?style=for-the-badge&logo=windows" alt="Descargar SplitVideo">
+  </a>
+
+</div>
+
 > **Nota de seguridad (Windows SmartScreen):** 
 > Al ser una aplicación independiente y no estar firmada con un certificado de pago comercial, Windows podría mostrar una alerta de pantalla azul indicando *"PC protegido por Windows"*. Esto es completamente normal; solo debes hacer clic en **"Más información"** y luego en **"Ejecutar de todas formas"**.
 

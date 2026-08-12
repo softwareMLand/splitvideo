@@ -44,6 +44,7 @@ Para empezar a utilizar SplitVideo, sigue estos sencillos pasos:
   <br>
 </div>
 
+
 2.  **Ejecuta el archivo descargado** (`DivisorVideo.exe`).
 3.  **Nota de seguridad:** Al ser una aplicación independiente y no estar firmada con un certificado de pago comercial, es posible que Windows muestre una alerta de SmartScreen ("PC protegido por Windows"). Esto es normal. Haz clic en **"Más información"** y luego en **"Ejecutar de todas formas"**.
 

@@ -34,8 +34,6 @@ Para empezar a utilizar SplitVideo, sigue estos sencillos pasos:
 
 1.  **Haz clic en el botón de abajo** para descargar la última versión del instalador (`DivisorVideo.exe`) directamente desde la sección de Releases de GitHub.
 
-=========================================================================================
-
 <div align="center">
   <br>
   <a href="https://github.com/softwareMLand/splitvideo/releases/download/v1.0.0/DivisorVideo.exe">
@@ -45,8 +43,8 @@ Para empezar a utilizar SplitVideo, sigue estos sencillos pasos:
   <sub>⚡ Requiere Windows 10 u 11 · FFmpeg incluido de serie</sub>
   <br>
 </div>
+<br>
 
-=========================================================================================
 2.  **Ejecuta el archivo descargado** (`DivisorVideo.exe`).
 3.  **Nota de seguridad:** Al ser una aplicación independiente y no estar firmada con un certificado de pago comercial, es posible que Windows muestre una alerta de SmartScreen ("PC protegido por Windows"). Esto es normal. Haz clic en **"Más información"** y luego en **"Ejecutar de todas formas"**.
 

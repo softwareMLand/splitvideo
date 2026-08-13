@@ -55,7 +55,7 @@ Para empezar a utilizar SplitVideo, sigue estos sencillos pasos:
 SplitVideo opera bajo un modelo de software comercial que requiere una suscripción activa para su uso continuo.
 
 *   **Prueba Gratuita:** Podrás abrir la aplicación y verificar su funcionamiento sin costo.
-*   **Activación:** Para realizar cortes de video, la aplicación te guiará a través de un proceso seguro para adquirir o validar tu suscripción mensual mediante la pasarela de pagos **Paddle**.
+*   **Activación:** Para realizar cortes de video, la aplicación te guiará a través de un proceso seguro para adquirir o validar tu suscripción mensual mediante la pasarela de pagos **Gumroad**.
 
 ---
 
